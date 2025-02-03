@@ -1,0 +1,4 @@
+igraph
+leidenalg
+scvi-tools
+scanpy
