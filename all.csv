@@ -1,0 +1,144 @@
+Dataset,Specie,Gender,Condition,Region,Stage,Age,Strain,Accession,Size,Download
+AD00101,Human,Male,Control,Prefrontal cortex,1 - 3; 2 - 4,75-90+ years; 77-90+ years,NA,syn18485175 syn21125841,29342,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00101.qsave
+AD00106,Human,Female,Control,Prefrontal cortex,"1 - 4; 1, 3, 4",75-90+ years; 77-90+ years,NA,syn18485175 syn21125841,56329,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00106.qsave
+AD00201,Human,Male,Control,Entorhinal Cortex,0,"mean age 77.6, range 67.3-91 years; 50-91 years",NA,GSE138852 GSE147528,29993,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00201.qsave
+AD00202,Human,Female,Control,Entorhinal Cortex,NA,"mean age 77.6, range 67.3-91 years",NA,GSE138852,1122,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00202.qsave
+AD00801,Human,Male,Control,Prefrontal cortex,0,50-91 years,NA,GSE147528,33711,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00801.qsave
+AD01101,Human,Male,Control,Prefrontal cortex,6,57-93 years,NA,GSE129308,13502,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01101.qsave
+AD01102,Human,Female,Control,Prefrontal cortex,6,57-93 years,NA,GSE129308,25014,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01102.qsave
+AD01201,Human,Male,Control,Superior parietal lobe,NA,72-103 years,NA,GSE146639,779,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01201.qsave
+AD01202,Human,Female,Control,Superior parietal lobe,NA,72-103 years,NA,GSE146639,939,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01202.qsave
+AD01301,Human,Male,Control,Prefrontal cortex,"1,2",85.4 years,NA,GSE157827,23304,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01301.qsave
+AD01302,Human,Female,Control,Prefrontal cortex,"1,2",85.4 years,NA,GSE157827,7663,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01302.qsave
+AD01401,Human,Male,Control,Prefrontal cortex,3,93-96 years,NA,syn21438358,10283,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01401.qsave
+AD01402,Human,Female,Control,Prefrontal cortex,3,93-96 years,NA,syn21438358,4492,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01402.qsave
+AD01901,Human,Male,Control,Other/combined,1 - 3; 2 - 4,57-93 years,NA,GSE163577,2442,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01901.qsave
+AD01906,Human,Female,Control,Other/combined,"1 - 4; 1, 3, 4",75-90+ years,NA,GSE163577,37554,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01906.qsave
+AD02001,Human,Male,Control,Other/combined,NA,75-90+ years; 77-90+ years,NA,GSE160936,10715,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02001.qsave
+AD02002,Human,Female,Control,Other/combined,NA,75-90+ years,NA,GSE160936,14908,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02002.qsave
+AD02401,Human,Male,Control,Occipital lobe,NA,50-91 years,TREM2CV-5XFAD (IgG),GSE148822,7364,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02401.qsave
+AD02402,Human,Female,Control,Occipital lobe,NA,,TREM2CV-5XFAD (IgG),GSE148822,4560,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02402.qsave
+AD02403,Human,Female,Control,Occipital lobe,NA,,Trem2-/--5XFAD (IgG),GSE148822,50578,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02403.qsave
+AD02404,Human,Male,Control,Occipital lobe,NA,,TREM2R47H-5XFAD (IgG),GSE148822,37508,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02404.qsave
+AD02701,Human,Male,Control,Cortex,NA,7 months,B6,GSE158234,1084,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02701.qsave
+AD02801,Human,Male,Control,Temporal lobe,6,75-90+ years,NA,GSE153807,5115,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02801.qsave
+AD02802,Human,Female,Control,Temporal lobe,6,50-91 years,NA,GSE153807,16076,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02802.qsave
+AD03201,Human,Male,Control,Prefrontal cortex,NA,NA,TREM2CV-5XFAD (IgG),GSE174367,8226,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03201.qsave
+AD03202,Human,Female,Control,Prefrontal cortex,NA,77+ years,TREM2CV-5XFAD (IgG),GSE174367,6658,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03202.qsave
+AD03203,Human,Female,Control,Prefrontal cortex,NA,NA,Trem2-/--5XFAD (IgG),GSE174367,32061,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03203.qsave
+AD03204,Human,Male,Control,Prefrontal cortex,NA,NA,TREM2R47H-5XFAD (IgG),GSE174367,3296,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03204.qsave
+AD03501,Human,Female,Control,Middle temporal gyrus,3,75-90+ years,NA,syn26223298,4482,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03501.qsave
+AD03502,Human,Female,Control,Middle temporal gyrus,4,75-90+ years,NA,syn26223298,12297,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03502.qsave
+AD03503,Human,Female,Control,Middle temporal gyrus,5,75-90+ years,NA,syn26223298,27153,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03503.qsave
+AD03504,Human,Female,Control,Middle temporal gyrus,6,75-90+ years,NA,syn26223298,4263,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03504.qsave
+AD03505,Human,Male,Control,Middle temporal gyrus,0,75-90+ years,NA,syn26223298,20628,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03505.qsave
+AD03506,Human,Male,Control,Middle temporal gyrus,2,NA,NA,syn26223298,23100,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03506.qsave
+AD03507,Human,Male,Control,Middle temporal gyrus,3,NA,NA,syn26223298,7178,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03507.qsave
+AD03508,Human,Male,Control,Middle temporal gyrus,4,NA,NA,syn26223298,6896,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03508.qsave
+AD03509,Human,Male,Control,Middle temporal gyrus,5,NA,NA,syn26223298,41870,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03509.qsave
+AD03601,Human,Male,Control,Temporal Lobe,NA,80+ years,NA,GSE173731,15513,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03601.qsave
+AD03603,Human,Male,Control,Temporal Lobe,NA,80+ years,NA,GSE173731,29816,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03603.qsave
+AD04001,Human,Male,Control,Parietal Lobe,NA,70+ years,NA,NG00108,26657,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04001.qsave
+AD04003,Human,Male,Control,Parietal Lobe,NA,70+ years,NA,NG00108,3743,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04003.qsave
+AD04101,Human,Male,Control,Parietal Lobe,NA,70+ years,NA,syn22079621,7729,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04101.qsave
+AD04103,Human,Male,Control,Parietal Lobe,NA,70+ years,NA,syn22079621,20979,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04103.qsave
+AD04201,Human,Male,Control,Other/Combined,NA,70+ years,NA,GSE181279,7025,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04201.qsave
+AD04203,Human,Male,Control,Other/Combined,NA,70+ years,NA,GSE181279,28658,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04203.qsave
+AD04301,Human,Male,Control,Other/Combined,NA,70+ years,NA,EGAS00001006019,11658,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04301.qsave
+AD04303,Human,Male,Control,Other/Combined,NA,70+ years,NA,EGAS00001006019,22947,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04303.qsave
+AD04401,Human,Male,Control,Hippocampus,NA,70+ years,NA,GSE185553,32932,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04401.qsave
+AD04403,Human,Male,Control,Hippocampus,NA,70+ years,NA,GSE185553,29050,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04403.qsave
+AD04501,Human,Male,Control,Hippocampus,NA,75-90+ years,NA,GSE198323,24604,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04501.qsave
+AD04503,Human,Male,Control,Hippocampus,NA,75-90+ years,NA,GSE198323,45800,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04503.qsave
+AD04601,Human,Male,Control,Hippocampus,NA,75-90+ years,NA,GSE199243,7512,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04601.qsave
+AD04603,Human,Male,Control,Hippocampus,NA,75-90+ years,NA,GSE199243,3311,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04603.qsave
+AD04701,Human,Male,Control,Prefrontal cortex,"1,2",75-90+ years,NA,syn16780177,48158,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04701.qsave
+AD04703,Human,Male,Control,Prefrontal cortex,NA,75-90+ years,NA,syn16780177,1685,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04703.qsave
+AD04801,Human,Male,Control,Prefrontal cortex,"1,2",50-91 years,NA,syn52293417,30390,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04801.qsave
+AD04803,Human,Male,Control,Prefrontal cortex,NA,50-91 years,NA,syn52293417,26241,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04803.qsave
+AD04901,Human,Male,Control,Prefrontal cortex,NA,50-91 years,NA,GSE227222,48005,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04901.qsave
+AD04903,Human,Male,Control,Prefrontal cortex,NA,50-91 years,NA,GSE227222,31291,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04903.qsave
+AD05101,Human,Male,Control,Prefrontal cortex,NA,50-91 years,NA,syn52293417,13216,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD05101.qsave
+AD05103,Human,Male,Control,Prefrontal cortex,NA,50-91 years,NA,syn52293417,17018,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD05103.qsave
+AD05201,Human,Male,Control,Cortex,NA,50-91 years,NA,https://braincelldata.org/resource,2418,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD05201.qsave
+AD05703,Human,Male,Control,Prefrontal cortex,NA,50-91 years,Triple-transgenic Alzheimer disease (AD) mouse model,GSE167494,15930,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD05703.qsave
+AD05704,Human,Male,Control,Prefrontal cortex,NA,"mean age 77.6, range 67.3-91 years; 50-91 years",anti-Nk1.1 treated 3XTg-AD,GSE167494,5119,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD05704.qsave
+AD06301,Human,Female,Control,Prefrontal cortex,NA,77+ years,NA,GSE157827,22894,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06301.qsave
+AD06303,Human,Male,Control,Prefrontal cortex,NA,77+ years,NA,GSE157827,44071,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06303.qsave
+AD06401,Human,Male,Control,Other/combined,NA,4 weeks,NA,GSE147528,30324,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06401.qsave
+AD06801,Human,Female,Control,Putamen,NA,78.5,NA,GSE161045,4606,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06801.qsave
+AD06802,Human,Female,Control,Putamen,NA,85.4,NA,GSE161045,2193,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06802.qsave
+AD06803,Human,Male,Control,Putamen,NA,78,NA,GSE161045,2324,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06803.qsave
+AD06804,Human,Male,Control,Putamen,NA,73.3,NA,GSE161045,1607,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06804.qsave
+AD00102,Human,Male,Disease,Prefrontal cortex,"""5-6""",75-90+ years,NA,syn18485175,5103,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00102.qsave
+AD00103,Human,Female,Disease,Prefrontal cortex,"""5-6""",75-90+ years,NA,syn18485175,5679,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00103.qsave
+AD00104,Human,Male,Disease,Prefrontal cortex,"""5-6""",75-90+ years,NA,syn18485175,8283,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00104.qsave
+AD00105,Human,Female,Disease,Prefrontal cortex,"""5-6""",75-90+ years,NA,syn18485175,11542,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00105.qsave
+AD00107,Human,Male,Disease,Prefrontal cortex,"3, 5",77-90+ years,NA,syn21125841,16954,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00107.qsave
+AD00108,Human,Male,Disease,Prefrontal cortex,"""5-6""",77-90+ years,NA,syn21125841,11403,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00108.qsave
+AD00109,Human,Female,Disease,Prefrontal cortex,"3, 5",77-90+ years,NA,syn21125841,9891,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00109.qsave
+AD00110,Human,Female,Disease,Prefrontal cortex,"1, 4 - 5",77-90+ years,NA,syn21125841,15300,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00110.qsave
+AD00203,Human,Male,Disease,Entorhinal Cortex,"""5-6""","mean age 77.6, range 67.3-91 years",NA,GSE138852,3770,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00203.qsave
+AD00204,Human,Female,Disease,Entorhinal Cortex,4,"mean age 77.6, range 67.3-91 years",NA,GSE138852,2303,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00204.qsave
+AD00205,Human,Male,Disease,Entorhinal Cortex,2,50-91 years,NA,GSE147528,19282,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00205.qsave
+AD00206,Human,Male,Disease,Entorhinal Cortex,6,50-91 years,NA,GSE147528,25537,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00206.qsave
+AD00802,Human,Male,Disease,Prefrontal cortex,2,50-91 years,NA,GSE147528,27946,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00802.qsave
+AD00803,Human,Male,Disease,Prefrontal cortex,6,50-91 years,NA,GSE147528,32901,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD00803.qsave
+AD01103,Human,Male,Disease,Prefrontal cortex,6,57-93 years,NA,GSE129308,9120,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01103.qsave
+AD01104,Human,Female,Disease,Prefrontal cortex,6,57-93 years,NA,GSE129308,11873,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01104.qsave
+AD01203,Human,Male,Disease,Superior parietal lobe,NA,72-103 years,NA,GSE146639,3127,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01203.qsave
+AD01204,Human,Female,Disease,Superior parietal lobe,NA,72-103 years,NA,GSE146639,963,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01204.qsave
+AD01205,Human,Male,Disease,Superior parietal lobe,NA,72-103 years,NA,GSE146639,1731,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01205.qsave
+AD01206,Human,Female,Disease,Superior parietal lobe,NA,72-103 years,NA,GSE146639,8632,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01206.qsave
+AD01303,Human,Male,Disease,Prefrontal cortex,"""4-6""",74.6 years,NA,GSE157827,28183,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01303.qsave
+AD01304,Human,Female,Disease,Prefrontal cortex,"""4-6""",74.6 years,NA,GSE157827,5480,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01304.qsave
+AD01403,Human,Male,Disease,Prefrontal cortex,"""1-3""",79-98 years,NA,syn21438358,24786,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01403.qsave
+AD01404,Human,Female,Disease,Prefrontal cortex,"""1-3""",79-98 years,NA,syn21438358,27291,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01404.qsave
+AD01902,Human,Male,Disease,Other/combined,"""5-6""",57-93 years,NA,GSE163577,7817,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01902.qsave
+AD01903,Human,Female,Disease,Other/combined,"""5-6""",57-93 years,NA,GSE163577,11473,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01903.qsave
+AD01904,Human,Male,Disease,Other/combined,"""5-6""",57-93 years,NA,GSE163577,10898,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01904.qsave
+AD01905,Human,Female,Disease,Other/combined,"""5-6""",10 months,NA,GSE163577,32671,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD01905.qsave
+AD02003,Human,Male,Disease,Other/combined,NA,75-90+ years,NA,GSE160936,33224,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02003.qsave
+AD02405,Human,Female,Disease,Occipital lobe,4,"mean age 77.6, range 67.3-91 years; 50-91 years",TREM2R47H-5XFAD (IgG),GSE148822,27831,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02405.qsave
+AD02406,Human,Male,Disease,Occipital lobe,5,"mean age 77.6, range 67.3-91 years",TREM2CV-5XFAD (hT2AB),GSE148822,53127,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02406.qsave
+AD02702,Human,Male,Disease,Cortex,NA,7 months,5XFAD,GSE158234,4867,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02702.qsave
+AD02803,Human,Male,Disease,Temporal lobe,6,50-91 years,NA,GSE153807,9574,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02803.qsave
+AD02804,Human,Female,Disease,Temporal lobe,6,75-90+ years,NA,GSE153807,9097,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD02804.qsave
+AD03205,Human,Female,Disease,Prefrontal cortex,NA,NA,TREM2R47H-5XFAD (IgG),GSE174367,57044,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03205.qsave
+AD03206,Human,Male,Disease,Prefrontal cortex,NA,NA,TREM2CV-5XFAD (hT2AB),GSE174367,7195,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03206.qsave
+AD03510,Human,Female,Disease,Middle temporal gyrus,2,NA,NA,syn26223298,28067,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03510.qsave
+AD03511,Human,Female,Disease,Middle temporal gyrus,4,80+ years,NA,syn26223298,28525,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03511.qsave
+AD03512,Human,Female,Disease,Middle temporal gyrus,5,80+ years,NA,syn26223298,56092,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03512.qsave
+AD03602,Human,Female,Disease,Temporal Lobe,NA,80+ years,NA,GSE173731,13327,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03602.qsave
+AD03604,Human,Female,Disease,Temporal Lobe,NA,80+ years,NA,GSE173731,15930,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD03604.qsave
+AD04002,Human,Female,Disease,Parietal Lobe,NA,70+ years,NA,NG00108,4727,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04002.qsave
+AD04004,Human,Female,Disease,Parietal Lobe,NA,70+ years,NA,NG00108,2609,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04004.qsave
+AD04102,Human,Female,Disease,Parietal Lobe,NA,70+ years,NA,syn22079621,825,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04102.qsave
+AD04104,Human,Female,Disease,Parietal Lobe,NA,70+ years,NA,syn22079621,6971,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04104.qsave
+AD04202,Human,Female,Disease,Other/Combined,NA,70+ years,NA,GSE181279,2335,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04202.qsave
+AD04204,Human,Female,Disease,Other/Combined,NA,70+ years,NA,GSE181279,47174,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04204.qsave
+AD04302,Human,Female,Disease,Other/Combined,NA,70+ years,NA,EGAS00001006019,13772,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04302.qsave
+AD04304,Human,Female,Disease,Other/Combined,NA,70+ years,NA,EGAS00001006019,3121,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04304.qsave
+AD04402,Human,Female,Disease,Hippocampus,NA,70+ years,NA,GSE185553,39303,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04402.qsave
+AD04404,Human,Female,Disease,Hippocampus,"1,2",75-90+ years,NA,GSE185553,28174,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04404.qsave
+AD04502,Human,Female,Disease,Hippocampus,NA,75-90+ years,NA,GSE198323,13054,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04502.qsave
+AD04504,Human,Female,Disease,Hippocampus,NA,75-90+ years,NA,GSE198323,19293,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04504.qsave
+AD04602,Human,Female,Disease,Hippocampus,NA,75-90+ years,NA,GSE199243,2642,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04602.qsave
+AD04604,Human,Female,Disease,Hippocampus,NA,75-90+ years,NA,GSE199243,4756,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04604.qsave
+AD04702,Human,Female,Disease,Prefrontal cortex,"1,2",75-90+ years,NA,syn16780177,18192,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04702.qsave
+AD04704,Human,Female,Disease,Prefrontal cortex,NA,75-90+ years,NA,syn16780177,20024,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04704.qsave
+AD04802,Human,Female,Disease,Prefrontal cortex,"1,2",50-91 years,NA,syn52293417,38299,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04802.qsave
+AD04902,Human,Female,Disease,Prefrontal cortex,NA,50-91 years,NA,GSE227222,10779,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04902.qsave
+AD04904,Human,Female,Disease,Prefrontal cortex,NA,50-91 years,NA,GSE227222,5428,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD04904.qsave
+AD05102,Human,Female,Disease,Prefrontal cortex,NA,50-91 years,NA,syn52293417,1174,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD05102.qsave
+AD05104,Human,Female,Disease,Prefrontal cortex,NA,50-91 years,NA,syn52293417,52375,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD05104.qsave
+AD05202,Human,Male,Disease,Cortex,NA,50-91 years,NA,https://braincelldata.org/resource,7453,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD05202.qsave
+AD05701,Human,Female,Disease,Prefrontal cortex,NA,50-91 years,Triple-transgenic Alzheimer disease (AD) mouse model,GSE167494,2699,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD05701.qsave
+AD05702,Human,Female,Disease,Prefrontal cortex,NA,50-91 years,anti-Nk1.1 treated 3XTg-AD,GSE167494,13655,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD05702.qsave
+AD06302,Human,Female,Disease,Prefrontal cortex,NA,77+ years,NA,GSE157827,41757,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06302.qsave
+AD06304,Human,Male,Disease,Prefrontal cortex,NA,77+ years,NA,GSE157827,8891,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06304.qsave
+AD06402,Human,Male,Disease,Other/combined,NA,4 weeks,NA,GSE147528,14259,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06402.qsave
+AD06805,Human,Male,Disease,Putamen,NA,71,NA,GSE161045,2506,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06805.qsave
+AD06806,Human,Female,Disease,Putamen,NA,72.5,NA,GSE161045,4167,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06806.qsave
+AD06807,Human,Male,Disease,Putamen,NA,75.1,NA,GSE161045,3892,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06807.qsave
+AD06808,Human,Female,Disease,Putamen,NA,81.7,NA,GSE161045,3605,https://bmblx.bmi.osumc.edu/ssread_download/scrnaseq_qsave/AD06808.qsave

@@ -1,5 +1,8 @@
 .h5ad
 __pycache__/
 processed_data/
+ann_data/
 raw_data/
+downloaded/
 .zip
+.qsave
