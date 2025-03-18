@@ -6,3 +6,6 @@ raw_data/
 downloaded/
 .zip
 .qsave
+filtered_data/
+filtered_data_2/
+*.npy
