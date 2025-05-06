@@ -4,11 +4,11 @@ import scanpy as sc
 
 # Directories to inspect
 ann_dirs = [
-    "/l/users/darya.taratynova/scbb_project/_process_again/GSE147528/ann_data",
-    "/l/users/darya.taratynova/scbb_project/_process_again/GSE157827/ann_data",
-    "/l/users/darya.taratynova/scbb_project/_process_again/GSE160936/ann_data",
-    "/l/users/darya.taratynova/scbb_project/_process_again/GSE174367/ann_data",
-    "/l/users/darya.taratynova/scbb_project/_process_again/GSE181279/ann_data",
+    "/l/users/darya.taratynova/scbb_project/_process_again/GSE147528/ann_data_mapped",
+    "/l/users/darya.taratynova/scbb_project/_process_again/GSE157827/ann_data_mapped",
+    "/l/users/darya.taratynova/scbb_project/_process_again/GSE160936/ann_data_mapped",
+    "/l/users/darya.taratynova/scbb_project/_process_again/GSE174367/ann_data_mapped",
+    "/l/users/darya.taratynova/scbb_project/_process_again/GSE181279/ann_data_mapped",
 ]
 
 # Loop through each directory, pick the first .h5ad, and summarize

@@ -124,7 +124,7 @@ def prerank_group_gsea_and_plot(counts_df, meta_df, geneset, gene_set_name,
     # plot ES curve
     ES, hits = res['RES'], res['hits']
     fig, ax = plt.subplots(figsize=(5,3.5))
-    ax.plot(ES, color='darkgreen', lw=1.5)
+    ax.plot(ES, color='#FF6B35', lw=1.5)
     ax.axhline(0, color='black', ls='--', lw=0.8)
     for h in hits:
         ax.axvline(h, color='black', ymin=0.95, ymax=1.0, lw=0.6)
@@ -134,6 +134,7 @@ def prerank_group_gsea_and_plot(counts_df, meta_df, geneset, gene_set_name,
         title=f"{gene_set_name}\n{group1['gender']} {group1['condition']} vs\n"
               f"{group2['gender']} {group2['condition']}"
     )
+    ax.title.set_fontsize(8) 
     for spine in ['top','right']:
         ax.spines[spine].set_visible(False)
     plt.tight_layout()
